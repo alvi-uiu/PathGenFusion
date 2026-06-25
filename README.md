@@ -63,7 +63,9 @@ Python 3.10+ is recommended. A GPU with CUDA support is required for practical t
 
 ### Notebook
 
-Open `notebooks/PathGenFusion.ipynb` in Jupyter or Google Colab.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a8O3rPzxw31s0JjBe4XxyhNm02RWTGLW?usp=sharing)
+
+Or open `notebooks/PathGenFusion.ipynb` locally.
 
 ### Script
 
