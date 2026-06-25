@@ -2,8 +2,6 @@
 
 **Explainable Multimodal Breast Cancer Subtype Classification via Bidirectional Histopathology-Transcriptome Attention**
 
-Riasad Alvi, Hafijul Hoque Chowdhury — United International University, Dhaka, Bangladesh
-
 ---
 
 ## Overview
@@ -63,13 +61,9 @@ Python 3.10+ is recommended. A GPU with CUDA support is required for practical t
 
 ## Usage
 
-### Google Colab (recommended)
+### Notebook
 
-Open the notebook directly in Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a8O3rPzxw31s0JjBe4XxyhNm02RWTGLW)
-
-Or open `notebooks/PathGenFusion.ipynb` locally.
+Open `notebooks/PathGenFusion.ipynb` in Jupyter or Google Colab.
 
 ### Script
 
@@ -143,10 +137,8 @@ If you use this code or the preprocessed dataset, please cite:
 @article{alvi2025pathgenfusion,
   title={PathGenFusion: Explainable Multimodal Breast Cancer Subtype Classification
          via Bidirectional Histopathology-Transcriptome Attention},
-  author={Alvi, Riasad and Chowdhury, Hafijul Hoque},
   year={2025},
-  institution={United International University},
-  address={Dhaka, Bangladesh}
+  url={https://github.com/alvi-uiu/PathGenFusion}
 }
 ```
 
