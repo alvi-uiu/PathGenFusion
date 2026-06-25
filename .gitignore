@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (large datasets should not be committed)
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Model weights
+*.weights.h5
+*.ckpt
+*.pt
+*.pth
+temp_model_weights/
+
+# Output files
+*.log
+training_curves.png
+multimodal_xai_analysis.png
+gene_importance_scores_permutation.npy
+gene_attributions_ig.npy
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
